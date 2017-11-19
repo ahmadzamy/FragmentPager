@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FragmentPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="oil_one_name">4you Oil Station</string>
+    <string name="oil_two_name">Mihtab Oil Station</string>
+    <string name="oil_three_name">Sher Oil Station</string>
+
+    <string name="oilLocation1">Kurdistan / Erbil</string>
+    <string name="oilLocation2">Kurdistan / Erbil</string>
+    <string name="oilLocation3">Kurdistan / Karauk</string>
+
+    <string name="Uni_name1">Salahaddin University</string>
+    <string name="uni_name2">Sulaimania University</string>
+    <string name="uni_name3">Ishk University</string>
+    <string name="uni_name4">Koya University</string>
+
+    <string name="uni_loc1">Kurdistan / Erbil</string>
+    <string name="uni_loc2">Kurdistan / Sulaimania</string>
+    <string name="uni_loc3">Kurdistan / Erbil</string>
+    <string name="uni_loc4">Kurdistan / Koya</string>
+
+    <string name="Market_name1">Majdi Mall</string>
+    <string name="Market_name2">Rand Galary Mall</string>
+    <string name="Market_name3">Mazi Mall</string>
+
+    <string name="market_loc1">Kurdistan/ Erbil</string>
+    <string name="market_loc2">Kurdistan/ Suli</string>
+    <string name="market_loc3">Kurdistan/ Duhok</string>
+
+    <string name="Hospital_name">west Emergincy</string>
+    <string name="Hospital_name2">Hiwa Hospital</string>
+    <string name="Hospital_name3">Duhok Hospital</string>
+
+    <string name="hospital_loc1">Kurdistan / Erbil</string>
+    <string name="hospital_loc2">Kurdistan / Sulaimania</string>
+    <string name="hospital_loc3">Kurdistan / Duhok</string>
+    <string name="label1">Hospitals</string>
+    <string name="label2">Markets</string>
+    <string name="label3">University</string>
+    <string name="label4">Oil Stations</string>
+</resources>
